@@ -1,5 +1,5 @@
-import asyncio  # импортируем asyncio для запуска асинхронной функции
-import sqlite3  # импортируем sqlite3 для доступа к базе данных
+import asyncio  
+import sqlite3  
 
 from aiogram import Bot, Dispatcher, types  # импортируем основные классы aiogram
 from aiogram.filters import Command  # импортируем фильтр для команд
